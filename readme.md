@@ -8,3 +8,5 @@ Babel([https://babeljs.io/])
 
 Rollup([http://rollupjs.org])
 
+DefinitelyTyped([http://definitelytyped.org/])
+
